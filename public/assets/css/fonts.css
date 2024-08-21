@@ -1,0 +1,240 @@
+/*Calling fonts*/
+
+@font-face {
+
+  font-family: 'BentonSans-Regular';
+
+  src: url('../fontsbenton/BentonSans-Regular.eot?#iefix') format('embedded-opentype'),
+
+       url('../fontsbenton/BentonSans-Regular.woff') format('woff'), url('../fontsbenton/BentonSans-Regular.ttf')  format('truetype'), url('../fontsbenton/BentonSans-Regular.svg#BentonSans-Regular') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'BentonSans-Medium';
+
+  src: url('../fontsbenton/BentonSans-Medium.eot?#iefix') format('embedded-opentype'),  
+
+       /*url('../fontsbenton/BentonSans-Medium.woff') format('woff'),*/ url('../fontsbenton/BentonSans-Medium.ttf')  format('truetype'), url('../fontsbenton/BentonSans-Medium.svg#BentonSans-Medium') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+
+
+@font-face {
+
+  font-family: 'BentonSans-Light';
+
+  src: url('../fontsbenton/BentonSans-Light.eot?#iefix') format('embedded-opentype'), 
+
+       /*url('../fontsbenton/BentonSans-Light.woff') format('woff'),*/ url('../fontsbenton/BentonSans-Light.ttf')  format('truetype'), url('../fontsbenton/BentonSans-Light.svg#BentonSans-Light') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'BentonSans-Bold';
+
+  src: url('../fontsbenton/BentonSans-Bold.eot?#iefix') format('embedded-opentype'),  
+
+       /*url('../fontsbenton/BentonSans-Bold.woff') format('woff'),*/ url('../fontsbenton/BentonSans-Bold.ttf')  format('truetype'), url('../fontsbenton/BentonSans-Bold.svg#BentonSans-Bold') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'BentonSans-Book';
+
+  src: url('../fontsbenton/BentonSans-Book.eot?#iefix') format('embedded-opentype'),  
+
+      /* url('../fontsbenton/BentonSans-Book.woff') format('woff'),*/ url('../fontsbenton/BentonSans-Book.ttf')  format('truetype'), url('../fontsbenton/BentonSans-Book.svg#BentonSans-Bold') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+
+
+
+/*
+@font-face {
+
+  font-family: 'BrainFlower';
+
+  src: url('../fontsbenton/BrainFlower.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/BrainFlower.woff') format('woff'), url('../fontsbenton/BrainFlower.ttf')  format('truetype'), url('../fontsbenton/BrainFlower.svg#BrainFlower') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'AbadiMT-Condensed';
+
+  src: url('../fontsbenton/AbadiMT-Condensed.eot') format('embedded-opentype'),  url('../fontsbenton/AbadiMT-Condensed.woff') format('woff'), url('../fontsbenton/AbadiMT-Condensed.ttf')  format('truetype'), url('../fontsbenton/AbadiMT-Condensed.svg#AbadiMT-Condensed') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'LaoUI';
+
+  src: url('../fontsbenton/LaoUI.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/LaoUI.woff') format('woff'), url('../fontsbenton/LaoUI.ttf')  format('truetype'), url('../fontsbenton/LaoUI.svg#LaoUI') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'News701BT-RomanA';
+
+  src: url('../fontsbenton/News701BT-RomanA.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/News701BT-RomanA.woff') format('woff'), url('../fontsbenton/News701BT-RomanA.ttf')  format('truetype'), url('../fontsbenton/News701BT-RomanA.svg#News701BT-RomanA') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}*/
+
+/*@font-face {
+
+  font-family: 'Helvetica-Light';
+
+  src: url('../fontsbenton/Helvetica-Light.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/Helvetica-Light.otf')  format('opentype'),
+
+       url('../fontsbenton/Helvetica-Light.woff') format('woff'), url('../fontsbenton/Helvetica-Light.ttf')  format('truetype'), url('../fontsbenton/Helvetica-Light.svg#Helvetica-Light') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'HelveticaNeueLTPro-Bd';
+
+  src: url('../fontsbenton/HelveticaNeueLTPro-Bd.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/HelveticaNeueLTPro-Bd.otf')  format('opentype'),
+
+       url('../fontsbenton/HelveticaNeueLTPro-Bd.woff') format('woff'), url('../fontsbenton/HelveticaNeueLTPro-Bd.ttf')  format('truetype'), url('../fontsbenton/HelveticaNeueLTPro-Bd.svg#HelveticaNeueLTPro-Bd') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'HelveticaNeueLTPro-Md';
+
+  src: url('../fontsbenton/HelveticaNeueLTPro-Md.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/HelveticaNeueLTPro-Md.otf')  format('opentype'),
+
+       url('../fontsbenton/HelveticaNeueLTPro-Md.woff') format('woff'), url('../fontsbenton/HelveticaNeueLTPro-Md.ttf')  format('truetype'), url('../fontsbenton/HelveticaNeueLTPro-Md.svg#HelveticaNeueLTPro-Md') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'DKLemonYellowSun';
+
+  src: url('../fontsbenton/DKLemonYellowSun.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/DKLemonYellowSun.otf')  format('opentype'),
+
+       url('../fontsbenton/DKLemonYellowSun.woff') format('woff'), url('../fontsbenton/DKLemonYellowSun.ttf')  format('truetype'), url('../fontsbenton/DKLemonYellowSun.svg#DKLemonYellowSun') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+
+
+
+
+@font-face {
+
+  font-family: 'MyriadPro-Light';
+
+  src: url('../fontsbenton/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/MyriadPro-Light.otf')  format('opentype'),
+
+         url('../fontsbenton/MyriadPro-Light.woff') format('woff'), url('../fontsbenton/MyriadPro-Light.ttf')  format('truetype'), url('../fontsbenton/MyriadPro-Light.svg#MyriadPro-Light') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'MyriadPro-Regular';
+
+  src: url('../fontsbenton/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/MyriadPro-Regular.otf')  format('opentype'),
+
+         url('../fontsbenton/MyriadPro-Regular.woff') format('woff'), url('../fontsbenton/MyriadPro-Regular.ttf')  format('truetype'), url('../fontsbenton/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'MyriadPro-Semibold';
+
+  src: url('../fontsbenton/MyriadPro-Semibold.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/MyriadPro-Semibold.otf')  format('opentype'),
+
+         url('../fontsbenton/MyriadPro-Semibold.woff') format('woff'), url('../fontsbenton/MyriadPro-Semibold.ttf')  format('truetype'), url('../fontsbenton/MyriadPro-Semibold.svg#MyriadPro-Semibold') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'Angelina';
+
+  src: url('../fontsbenton/Angelina.eot?#iefix') format('embedded-opentype'),  url('../fontsbenton/Angelina.woff') format('woff'), url('../fontsbenton/Angelina.ttf')  format('truetype'), url('../fontsbenton/Angelina.svg#Angelina') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}*/
+

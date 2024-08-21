@@ -1,0 +1,119 @@
+@media only screen and (min-width:0px) and (max-width:1200px) 
+{
+
+    .success-person-box
+    {
+        width: 16.6666% !important;
+    }
+
+    .starts, #success-container
+    {
+        display: none;
+    }
+
+    #read-stories-link
+    {
+        display: block;
+    }
+
+    .cr_success
+    {
+        cursor: auto;
+    }
+
+}
+
+@media only screen and (min-width:0px) and (max-width:1000px) 
+{
+    .ban_head 
+    {
+        display: block;
+        line-height: 26px;
+        margin-bottom: -15px;
+        padding-left: 0;
+        font-size: 22px;
+        padding-top: 0;
+        font-family: BentonSansBold !important;
+        margin-top: 20px;
+    }
+
+    .ban_subhead
+    {
+        font-size: 16px;
+        line-height: 21px;
+        padding-left: 0;
+        font-family: BentonSansRegular !important;
+    }
+
+    .main_ban
+    {
+        min-height: 200px;
+        background: none;
+        background-color: #1e1e1e;
+    }
+}
+
+
+@media only screen and (min-width:0px) and (max-width:768px) 
+{
+    .careerinfo
+    {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .login-regis-img
+    {
+        display: block;
+        margin: auto;
+    }
+
+    .aspirants-login-div, .resource-seekers-div
+    {
+        text-align: center !important;
+    }
+
+    a.login-regis-link
+    {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .cr_success .col-xs-12 .career-text-img, .cr_success .col-xs-12, .cr_success h3
+    {
+        text-align: center !important;
+    }
+
+    .cr_success .col-xs-12 img
+    {
+        margin: auto;
+    }
+
+    .nav-justified > li
+    {
+        float: left;
+    }
+}
+
+@media only screen and (min-width:0px) and (max-width:500px)
+{
+    .aspirants-login-div
+    {
+        padding-right: 0px;
+    }
+
+    .resource-seekers-div
+    {
+        padding-left: 0px;
+    }
+}
+/*--------------responsive style for Aspirant start-----------------*/
+@media only screen and (min-width:0px) and (max-width:500px){
+    .reg_layer .receive_updates .receive_left{
+       width: 15%;
+    }
+    .reg_layer .receive_updates .receive_right{
+        width: 85%;
+    }
+}
+/*--------------responsive style for Aspirant end-----------------*/
